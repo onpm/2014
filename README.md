@@ -12,5 +12,5 @@
 4、教案   
 5、授课计划  
    
-全部下载：An [example](https://github.com/onpm/2014/archive/master.zip "Title")   
+全部下载：[.zip](https://github.com/onpm/2014/archive/master.zip "全部文件")   
 
