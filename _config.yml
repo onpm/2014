@@ -1,0 +1,8 @@
+title: "2014"
+description: 现代网络管理技术课程
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-minimal
+
+gems:
+  - jekyll-mentions
